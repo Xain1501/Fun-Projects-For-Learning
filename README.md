@@ -1,2 +1,29 @@
 # Fun-Projects-For-Learning
-This contains links to the repos of my Projects  that i amde
+# 🎮 Fun Coding Projects
+
+Welcome to my coding playground! This repo links to all the fun, experimental projects I’ve built while learning and exploring different areas of programming.
+
+## 🐍 Python Projects
+<!---
+- [Weather App](https://github.com/Xain1501/weather-app)
+- [To-Do CLI](https://github.com/Xain1501/todo-cli)
+- [Password Generator](https://github.com/Xain1501/password-generator)
+--->
+
+## 💻 JavaScript Projects
+<!---
+- [Click Counter](https://github.com/Xain1501/click-counter)
+- [Simple Calculator](https://github.com/Xain1501/simple-calculator)
+--->
+## ⚛️ React Projects
+<!---
+- [Quotes Generator](https://github.com/Xain1501/quotes-generator)
+- [Pomodoro Timer](https://github.com/Xain1501/pomodoro-react)
+--->
+## 🌐 HTML/CSS Projects
+<!---
+- [Personal Portfolio](https://github.com/Xain1501/portfolio-site)
+
+--->
+
+📌 I update this list regularly as I build new things and level up!
