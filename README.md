@@ -5,7 +5,7 @@ Welcome to my coding playground! This repo links to all the fun, experimental pr
 
 ## 🐍 Python Projects
 
-- [Quiz Maker](https://github.com/Xain1501/QuizMaker.git)
+- [Quiz Maker](https://github.com/Xain1501/QuizMaker.git):Makes a simple quiz and allows students to take them and get it marked.
 <!---
 - [Weather App](https://github.com/Xain1501/weather-app)
 - [To-Do CLI](https://github.com/Xain1501/todo-cli)
