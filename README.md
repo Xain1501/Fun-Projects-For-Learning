@@ -4,6 +4,8 @@
 Welcome to my coding playground! This repo links to all the fun, experimental projects I’ve built while learning and exploring different areas of programming.
 
 ## 🐍 Python Projects
+
+- [Quiz Maker](https://github.com/Xain1501/QuizMaker.git)
 <!---
 - [Weather App](https://github.com/Xain1501/weather-app)
 - [To-Do CLI](https://github.com/Xain1501/todo-cli)
