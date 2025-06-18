@@ -18,6 +18,10 @@ Welcome to my coding playground! This repo links to all the fun, experimental pr
 - [Click Counter](https://github.com/Xain1501/click-counter)
 - [Simple Calculator](https://github.com/Xain1501/simple-calculator)
 --->
+
+## 🅰️ Angular Projects
+-[Blog  Legends](https://github.com/Xain1501/BLogPageAngular): A simple blog page which allows you to see or add posts
+
 ## ⚛️ React Projects
 <!---
 - [Quotes Generator](https://github.com/Xain1501/quotes-generator)
